@@ -429,7 +429,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         <FormItemWrapper
                           className={classNames(
                             "__wab_instance",
-                            sty.formField__aZbF
+                            sty.formField__q34Ch
                           )}
                           label={"Name"}
                           name={"name"}
@@ -441,7 +441,7 @@ function PlasmicHomepage__RenderFunc(props: {
                         <FormItemWrapper
                           className={classNames(
                             "__wab_instance",
-                            sty.formField__pjLmL
+                            sty.formField__y3WTg
                           )}
                           label={"Message"}
                           name={"message"}
@@ -462,7 +462,7 @@ function PlasmicHomepage__RenderFunc(props: {
                             className={classNames(
                               projectcss.all,
                               projectcss.__wab_text,
-                              sty.text___2RiaE
+                              sty.text__aj5FT
                             )}
                           >
                             {"Submit"}
